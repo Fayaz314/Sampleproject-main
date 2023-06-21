@@ -1,0 +1,32 @@
+#first{
+    height:50px;
+    width:200px;
+    background-color:orange;
+}
+#second{
+    height:50px;
+    width:200px;
+    background-color:white;
+}
+#third{
+    height:50px;
+    width:200px;
+    background-color:green;
+}
+#line{
+    background-color:black;
+    height:300px;
+    width:5px;
+    margin-left:-1px;
+}
+#down{
+    width:200px;
+    background-color:rgba(181, 152, 152, 0.412);
+    height:50px;
+    border-radius:70px;
+    margin-left:-100px;
+}
+#img{
+    height:30px;
+    width:30px;
+}

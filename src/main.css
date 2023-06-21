@@ -1,0 +1,51 @@
+#home{
+   height:20px;
+   width:50px;
+   margin:10px;
+   padding:5px;
+   border-radius:10px;
+   cursor:pointer;
+   background-color:red;
+   display:inline;
+   
+}
+#order{
+    height:20px;
+    width:50px;
+    margin:10px;
+    padding:5px;
+    border-radius:10px;
+    cursor:pointer;
+    background-color:red;
+    display:inline;
+    
+}
+#contact{
+    height:20px;
+    width:50px;
+    margin:10px;
+    padding:5px;
+    border-radius:10px;
+    cursor:pointer;
+    background-color:red;
+    display:inline;
+}
+#home:hover{
+    color:red;
+    background-color:black;
+}
+#order:hover{
+    color:red;
+    background-color:black;
+}
+#contact:hover{
+    color:red;
+    background-color:black;
+}
+#ul{
+    list-style-type: none;
+}
+section{
+    color:red;
+    margin-left:70px;
+}

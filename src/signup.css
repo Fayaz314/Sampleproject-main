@@ -1,0 +1,98 @@
+#maindiv2{
+    display:flex;
+    justify-content: center;
+    padding:40px;
+    background-color:rgb(35, 56, 73)
+    
+}
+
+
+#image{
+    height:490px;
+    width:300px;
+
+    background-color:rgb(231, 231, 231);
+    float:left;
+   
+    
+    
+}
+img{
+    height:556px;
+    width:320px;
+    
+    
+}
+#signup{
+    height:550px;
+    width:310px;
+    padding:3px;
+    margin-left:20px;
+    
+    background-color:rgb(231, 231, 231);
+    float:left;
+    transition:2s;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+}
+#signup:hover{
+    background-color:rgb(242, 239, 157);
+    
+}
+#span{
+    color:red;
+    height:3px;
+    padding-left:3px;
+}
+.h2{
+    margin:2px;
+    margin-left:10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h5{
+    margin:6px;
+    margin-top:15px;
+    margin-left:30px;
+    color:rgb(41, 73, 91);
+    padding:0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#sinput{
+    margin-left:30px;
+    padding:1px;
+}
+#createaccount{
+    height:30px;
+    width:120px;
+    margin:20px;
+    cursor:pointer;
+    border-radius:5px;
+    border-style:none;
+    color:white;
+    transition:1s;
+    font-weight:bold;
+    background-color:rgb(49, 68, 84);
+}
+#createaccount:hover{
+    box-shadow:2px 1px 7px rgb(62, 58, 58);
+    color:rgb(25, 38, 52);
+    background-color:white;
+}
+#buttonlogin{
+    height:30px;
+    width:100px;
+    margin:20px;
+    
+    border-radius:5px;
+    border-style:none;
+    color:white;
+    transition:1s;
+    font-weight:bold;
+    background-color:rgb(49, 68, 84);
+}
+#buttonlogin:hover{
+    box-shadow:2px 1px 7px rgb(62, 58, 58);
+    color:rgb(25, 38, 52);
+    background-color:white;
+}
